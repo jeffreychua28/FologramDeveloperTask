@@ -61,6 +61,8 @@
   <ItemGroup>
     <Compile Include="Assets\Script\FPS.cs" />
     <Compile Include="Assets\Script\FPS_ToggleCursor.cs" />
+    <Compile Include="Assets\Script\ScaleManager.cs" />
+    <Compile Include="Assets\Script\ScaleUIPanel.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/LookItUp/FologramDeveloperTask/Fologram/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
